@@ -1,0 +1,40 @@
+h1
+{
+    color: rgb(21, 90, 168);
+    text-align: center;
+    font-size: 260%;
+    font-family: monospace;
+}
+h1:hover
+{
+    color: rgb(59, 179, 133);
+    text-align: center;
+    font-size: xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}s
+p
+{
+    color: rgb(21, 39, 202);
+}
+
+h2
+{
+    color: navy;
+    text-align: center;
+    font-size: xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h2:hover
+{
+    color: rgb(59, 179, 133);
+    text-align: center;
+    font-size: xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+video
+{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+    
